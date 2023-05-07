@@ -1,3 +1,4 @@
+# ado-msal-javascript-spa
 # Auth samples for Azure DevOps Services
 
 ![status](https://dev.azure.com/mseng/_apis/public/build/definitions/b924d696-3eae-4116-8443-9a18392d8544/5326/badge)
